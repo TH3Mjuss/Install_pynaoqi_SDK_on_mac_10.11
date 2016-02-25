@@ -1,6 +1,6 @@
 # Install Python NAOqi SDK on Mac (OS X 10.11 and later)
 
-In OS X El Capitan (10.11), Apple added System Integrity Protection ([System Integrity Protection](https://support.apple.com/en-us/HT204899 "System Integrity Protection")). This prevents programs in protected locations like /usr from calling a shared library that uses a relative reference to another shared library.
+In OS X El Capitan (10.11), Apple added System Integrity Protection ([SIP](https://support.apple.com/en-us/HT204899 "System Integrity Protection")). This prevents programs in protected locations like /usr from calling a shared library that uses a relative reference to another shared library.
 
 This script allows Mac users using SIP to install the NAOqi SDK on their machines.
 
