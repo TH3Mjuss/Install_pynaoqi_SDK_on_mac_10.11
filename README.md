@@ -13,7 +13,7 @@ Run the the python script in /src/ by using the following commands in your termi
 
 ## Changelog
 
-**0.1.0**
+**0.0.0**
 
 Initial Version
 
